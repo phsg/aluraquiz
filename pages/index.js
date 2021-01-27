@@ -57,7 +57,7 @@ export default function Home() {
 
         <Widget>
           <Widget.Header>
-            <h1>The legend</h1>
+            <h1>The legends</h1>
           </Widget.Header>
           <Widget.Content>
             <p>Campo 02</p>
